@@ -1,0 +1,474 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Newes of this present weeke from Germany, Italy, and Spaine, the greatest that came these many yeers, in one weeke. The generall heads are as follow: ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07962</idno>
+            <idno type="STC">STC 18507.338</idno>
+            <idno type="STC">ESTC S94439</idno>
+            <idno type="EEBO-CITATION">68222498</idno>
+            <idno type="OCLC">ocm 68222498</idno>
+            <idno type="VID">183770</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07962)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183770)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2197:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Newes of this present weeke from Germany, Italy, and Spaine, the greatest that came these many yeers, in one weeke. The generall heads are as follow: ...</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nathaniel Butter.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Iune 6. 1640..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title page: Century 3. Numb. 27.</note>
+                  <note>At foot of title page: With Privilege.</note>
+                  <note>At foot of last page: Imprimatur Philip. Minutelius.</note>
+                  <note>Pagination and signatures irregular; reprint from another ed. or publication?</note>
+                  <note>Reproduction of original in: Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thirty Years' War, 1618-1648 --  Early works to 1800.</term>
+               <term>Europe --  History --  1517-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:183770:1"/>
+            <pb facs="tcp:183770:1" rendition="simple:additions"/>
+            <p>Century 3.</p>
+            <p>Numb. 27.</p>
+            <p>Nevves of this preſent weeke from Germany, Italy, and Spaine, the greateſt that came theſe many yeers, in one weeke.</p>
+            <p>The generall heads are as follow: A great overthrow given by Generall <hi>Stalhanſe,</hi> to the Count of Mansfield in Sileſia.</p>
+            <p>A greater blow given to <hi>Piccolomini,</hi> by Generall <hi>Bannier</hi> in Saxonie, neere Erfurd.</p>
+            <p>Two great victories obtained by the French in Italy, with the taking Priſoner of Prince <hi>Thomas</hi> of Savoy, as the Letters report.</p>
+            <p>The generall diſcontent of the Subjects of the King of Spain in Catalona, a Kingdome bordering upon France.</p>
+            <p>With other very remarkable paſſages.</p>
+            <p>LONDON, Printed for <hi>Nathaniel Butter. Iune</hi> 6. 1640.</p>
+            <p>With Privilege.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dispatch">
+            <pb facs="tcp:183770:2"/>
+            <pb n="113" facs="tcp:183770:2"/>
+            <opener>
+               <dateline>Norimberg.</dateline>
+            </opener>
+            <div type="part">
+               <opener>
+                  <dateline>Millaine, <date>6. 16. May.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <seg rend="decorInit">T</seg>HE French Generall Count of Harcourt hath cauſed to bee pillaged and burned downe in his return from Cazall towards Thurino many places in Piemont and Montferat, which heertofore denied him proviſion for his Armie, he hath likewiſe fired the faire place of Firenzo, where he cauſed the inhabitants to bee chaſed into the fire, and three of the chiefeſt to be nailed to the gate, where they hung ſo long till they were ſtarved; afterwards he pitched his campe within an howres going from Thurino, and thought to maſter the ſaid Citie with the helpe of ſome traitors, and a mine, which from the Caſtle went very farre into the Citie, but being it was diſcovered to Prince <hi>Thomas,</hi> hee turned all the French Merchants out of the Citie, and did caſt into priſon ma<g ref="char:EOLhyphen"/>ny chiefe Citizens, as alſo the Count of Harcourts Secretarie, who got ſecretly into the Citie, and cauſed ſome of the ringlea<g ref="char:EOLhyphen"/>ders to be hanged: wherefore the ſaid Count of Harcourt aſſal<g ref="char:EOLhyphen"/>ted one paſſage which was but one quarter of howres going from the Citie, and though he was beaten off three or fowre times with ſome loſſe by the Marquis <hi>Serra,</hi> yet at laſt he maſte<g ref="char:EOLhyphen"/>red the ſame, and put all to the ſword in it: afterwards hee ma<g ref="char:EOLhyphen"/>ſtered alſo the bridge over the River of Poe, the Suburbs of Thurino, as alſo Settio and other places, that no reliefe and pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſion can be brought into the Citie; wherfore our Governour Marquis <hi>de Leganes</hi> roſe from Verzelly and marched thither<g ref="char:EOLhyphen"/>wards with the Armie conſiſting of eighteene thouſand men <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth horſe and foot, to ſuccour and relieve the ſaid Citie, with <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he helpe of Prince <hi>Thomas:</hi> at Finate are likewiſe arrived 14.
+<pb n="114" facs="tcp:183770:3"/>Galleies with three thouſand foot, as alſo foure hundred cheſts with Reals, and 200. thouſand crownes in gold for this Citie, thoſe three thouſand ſouldiers are marching already towards the Armie. The Duke of Parma is now at Venice, it is thought that he will likewiſe come into the League, and the French King is likewiſe deſired by the Pope to come into it.</p>
+               <p>The Spaniards had an enterpriſe in hand againſt the Citie of Leucata, wherefore the French fortifie the ſame place more and more, and draw together all the forces in Languedock. Marſhal <hi>de Shomberg</hi> is carried priſoner into the Caſtle at Mompelier, what the reaſon of it is, is not knowne.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Baſel, <date>8. 18. May.</date>
+                  </dateline>
+               </opener>
+               <p>The French King hath ſent 900000. Francks to the Wey<g ref="char:EOLhyphen"/>mariſh Armie, Lievetenant Generall <hi>Tupadel,</hi> Fieldmarſhall <hi>Shmitborger, Shavelitzky, Zillhart,</hi> and other Colonels are yet at Strasburg, they have no great mind to go to the Armie, becauſe Baron <hi>de Oiſſenville,</hi> unto whom are ſent yet from Paris 300000. francks is to command as the French Kings Lievetenant in Briſ<g ref="char:EOLhyphen"/>ſack next after Generall Major <hi>Erlack,</hi> but Colonel <hi>Hatzſtein</hi> will not condiſcend unto it, except he ſees firſt order from the Directors of the Weymariſh Armie. The Imperialiſts ſtraggle continually with ſtrong parties into Alſatia, and at Shoenaw in the Plackwood five houres going from hence ſome hundreds are enqu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtered.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Collen <date>10. 20. May.</date>
+                  </dateline>
+               </opener>
+               <p>The Count of Guyche fortifies his camp before Charlemont ſtill more and more, the loſſe before Cazall cauſeth great alte<g ref="char:EOLhyphen"/>ration, Monſieur <hi>de Bordeaux</hi> is to lead ten thouſand men more into Italy, and <hi>Villeroy</hi> fixe thouſand, and Monſieur <hi>Hallier</hi> is to
+<pb n="119" facs="tcp:183770:3"/>lead ſix thouſand men to the Duke of Longuevile his Armie.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Strasburg <date>May 21. 21.</date>
+                  </dateline>
+               </opener>
+               <p>On Saturday laſt the Imperiall Colonell <hi>Bamberger</hi> with 1000. men both horſe and foote had an enterpriſe in hand a<g ref="char:EOLhyphen"/>gainſt the City of Hagenaw, but his plot was diſcovered by an untimely ſhot, and was forced to retire.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Eysfield <date>May 15. 25.</date>
+                  </dateline>
+               </opener>
+               <p>The Imperiall and Swediſh Armie ly on the River of Saala neare Salfield within a muſquet ſhot one from the other, they play unceſſantly both day and night with their Canons one a<g ref="char:EOLhyphen"/>gainſt another, eſpecially the other day Generall <hi>Bannier</hi> plaid moſt fiercely againſt the Bavarians, with 3000. horſe ſtrong came into the Campe; the reſt of the Bavarian troops ly likewiſe not farre from the Imperiall campe, and expect within few daies the reſt of their troopes, which are drawne together from all places, inſomuch that without all queſtion we ſhall ſhortly heare of great blowes, to which end hot skirmiſhes paſſe alrea<g ref="char:EOLhyphen"/>dy betwixt them every day, and the Imperaliſts have taken pri<g ref="char:EOLhyphen"/>ſoners diverſe of the Luneburgiſh troopes. The Imperiall com<g ref="char:EOLhyphen"/>miſſarie Fuſe, who went to Erfurd to Generall <hi>Bannier,</hi> is come back agine to Cronach, where he was put into priſon, it is thought, that he will looſe his life.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Collen <date>May 27. 37.</date>
+                  </dateline>
+               </opener>
+               <p>The Imperiall Colonell <hi>Meuter</hi> hath by a ſtratgeme the ſtrong Caſtle of Sicherg, which was guarded by the Duke of New<g ref="char:EOLhyphen"/>burg his forces, the letters from Paris of the 9.19. of this moneth certifie: that the French King is gone towards Rein to bee the nearer to the ſiege before Charlemont, and at Paris
+<pb facs="tcp:183770:4"/>was ſung <hi>Te Deum laud amus</hi> for the victory, which the French had before Cazall.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Hamberugh <date>May 9. 19.</date>
+                  </dateline>
+               </opener>
+               <p>The King of Denmark continues ſtill to leave ſtrong forces both for ſea and land, inſomuch that by all appearance it will prove a warre betwixt him and the Hollanders. The 5. of this moneth <hi>Otto Brukman,</hi> who was ſent Embaſſador by the Duke of Holſtein to the king of Perſia, was beheaded at Gotterp.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Erfurd <date>May 17. 27.</date>
+                  </dateline>
+               </opener>
+               <p>After that Generall <hi>Bannier</hi> was gone with his Armie towards the river of Saala, the Imperaliſts put themſelves into battle betwixt the river of Saala and Salfield, but being the Swedes plaid ſo fiercely againſt them with their Canons, the y were forced to forſake that ground, and on the other ſide of the Ci<g ref="char:EOLhyphen"/>ty of Salfield in a valley they put themſelves into battle think<g ref="char:EOLhyphen"/>ing to keepe back there the Swediſh Army but ſome of the Swe<g ref="char:EOLhyphen"/>diſh Regiments got immediatly with 40. peeces of ordinance over the River of Saala, took by force the Redout which the Im<g ref="char:EOLhyphen"/>peraliſts had made upon the Hill, in which action Colonel <hi>Slang</hi> loſt his right arme, which was ſhot off by a peece of ord<g ref="char:EOLhyphen"/>nance, whereupon the Swedes planted immediatly their Ca<g ref="char:EOLhyphen"/>nons upon the hill, wherewith they plaid moſt fiercely into the Imperiall Campe, and kild a great many of the Imperaliſts, inſomuch that they were forced to forſake the ſame valley and they lie now in a valley betwixt two hils, wherefore Colonell <hi>Coning ſmark</hi> is commanded with many troopes to cut off from them below the forrage and proviſion, that for want of them they may likewiſe be forced to riſe from thence, to which end the Swedes have taken already the Magazins, which the Impe<g ref="char:EOLhyphen"/>rialliſts had at Hahla, Newſtat and Beſniek, wherein they
+<pb n="121" facs="tcp:183770:4"/>found a great ſtore of proviſion, and obtained a great number of wagons loaden with proviſion, which intended to goe to the Imperiall Campe, both parties ſhoote yet with their Canons unceſſanly one againſt another, in ſo much that on both fides above foure thouſand men are ſlaine already, the Swedes ſtrive above all to take the baggage from the Imperialliſts, for with<g ref="char:EOLhyphen"/>in five or ſix daies both parties will bee forced to looke out o<g ref="char:EOLhyphen"/>ther quarters: at this inſtant we heare that the Imperiall Armie is retiring towards Frangonia, the Barbarian forces lie for the preſent yet about Hilperſhauſen ſix leagues from Pi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olomines Armie. From Vienna and Prague we have no other newes, but 11.21. of this moneth, the Emperour is riſen from thence and gone towards Regenſpurg, the report goes, that a generall Dyet ſhall be kept there.</p>
+            </div>
+         </div>
+         <div type="dispatch">
+            <opener>
+               <dateline>From Frankford.</dateline>
+            </opener>
+            <div type="part">
+               <opener>
+                  <dateline>Lyon <date>May 2. 12.</date>
+                  </dateline>
+               </opener>
+               <p>THe Burgundians with ſome few troopes are come unawares before Poligny and fling many fire bals and hand Grana<g ref="char:EOLhyphen"/>dons into it; wherefore the Marquis of Villaroy, who with his Armie lies at Borde three leagues from Chalon hath comman<g ref="char:EOLhyphen"/>ded thitherwards with all ſpeede five hundred foote and foure 100. horſe to ſuccour the ſaid place. This weeke many troopes both horſe and foote are paſſed hereby and gone towards Pie<g ref="char:EOLhyphen"/>mont to joyne with the Count of Harcourt.</p>
+               <p>Being the Spanyards in Catalogina have ſome enterpriſe in hand againſt the City of Lemata, wherefore the French Go<g ref="char:EOLhyphen"/>vernour there <hi>Monſieur Deſpinan</hi> cauſeth the ſaid City to bee more fortified, and in Languedok they draw all the French <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roopes together.</p>
+            </div>
+            <div type="part">
+               <pb n="122" facs="tcp:183770:5"/>
+               <opener>
+                  <dateline>Greiffenberg in Sileſia <date>May 4. 14.</date>
+                  </dateline>
+               </opener>
+               <p>The ninth of this moneth the Saxon and Brandenburgiſh Regiments of horſe arived about Sittaw, from thence they thought to goe towards Hirſhberg to joyne theirs with the Im<g ref="char:EOLhyphen"/>periall Armie under the command of the Count of Mansfield, to which end they had come as farre already as Lawben, where they received intelligence, that Generall Major <hi>Stolhans</hi> with eight Regiments of horſe was come already as farre as Hirſhberg, wherefore the Saxon and Branderburgiſh Regi<g ref="char:EOLhyphen"/>ments were forced to retire, becauſe the tenth of this moneth the ſaid Generall M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>jor <hi>Stolhans</hi> had charged already the Impe<g ref="char:EOLhyphen"/>riall troopes about Shoene betwixt Hirſhberg and Goldenberg namely ſeven Regiments of horſe, which together with two peeces of Ordnance thought to goe towards Hirſhberg to begin the ſame, and the foot forces together with the reſt of the Artil<g ref="char:EOLhyphen"/>erie ſhould have followed from Striega, but the ſaid Generall Major <hi>Stolhans</hi> in his fuery fell upon three Imperiall Regiments of horſe, and diſperſed the ſame and obtained the two pieces of Ordnance together with all the baggage, the other foure Imperiall Regiments of horſe were chaſed as farre as Smicberg Landſhut and Striega, which action both Colonels Palefsky &amp; Limpo were taken priſones. The 8. Swediſh Regiments lie yet about Hirſhberg: this day the aforeſaid Generall Major <hi>Stolhans</hi> is to have his Head quarter at Lemberg 2. leagues from hence.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Baſel <date>May 8. 18.</date>
+                  </dateline>
+               </opener>
+               <p>The Imperiall Captaine B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſinger hath ſtragled againe as far as Benfield, intercepted ſome of theſe French and Wemariſh ſouldiers and returned with a good booty to Phillipsberg.</p>
+            </div>
+            <div type="part">
+               <pb n="119" facs="tcp:183770:5"/>
+               <opener>
+                  <dateline>Dreſden <date>the 8. 18. of May.</date>
+                  </dateline>
+               </opener>
+               <p>After that the Caſtle of Terſhen was ſurrendred unto the Imperialiſts and Saxons, the Saxon Generall Sergeant Major <hi>Delau</hi> came yeſterday hither againe with the Artillerie; And at this inſtant we receive likewiſe aviſoes, that the Caſtle of Toylitz was yeſterday likewiſe ſurrendred by compoſition. Generall Major <hi>Stollhans</hi> hath chaſed the Saxon horſemen be<g ref="char:EOLhyphen"/>yond Sittaw, and the Brandenburgiſh horſemen are gone again towards Berlin.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Duringen <date>the 11. 21. of May.</date>
+                  </dateline>
+               </opener>
+               <p>Generall <hi>Piccolomini</hi> lyes in his entrenched campe betwixt Iehna and Salfeld on th' other ſide of the River of Saala, and the Swediſh Army about Rudelſtatt on this ſide, where they one againſt another out of y<hi rend="sup">e</hi> Canons play vnceſſantly. The Im<g ref="char:EOLhyphen"/>perialiſts expect every day the Bavarian Army, aſſoone as they have joyned together we ſhall heare of great newes, becauſe for want of forrage they will not be able to lye long there, but muſt fight a pitch'd battaile: Generall <hi>Banniers</hi> Ladie and ſome Officers, which were left at Erfurd, are gone this day with a Convoy vnder the command of Colonell <hi>Heigings</hi> towards the Army, inſomuch that it is believed, that Generall <hi>Bannier</hi> will march towards Gera and Zwickaw. The Imperiall Co<g ref="char:EOLhyphen"/>lonell <hi>Gill de Haes</hi> hath cloſe beſieged againe the Caſtle of Mas<g ref="char:EOLhyphen"/>feld, and ſtraggle as farre as Eyſenach.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Antwerp <date>the 12. 22. of May.</date>
+                  </dateline>
+               </opener>
+               <p>From Artois is written, that the <hi>French</hi> intend to march likewiſe towards <hi>Flanders,</hi> and to joyne with the <hi>Hollanders,</hi> wherefore the Imperiall Generall Major <hi>Lamboy</hi> is to joyne with the Prince Cardinall Infanta, inſomuch that it will prove a bloody ſummer.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Vienna <date>the 13. 23. of May.</date>
+                  </dateline>
+               </opener>
+               <p>The Emperour hath beſtowed vpon the Ambaſſadour of Turkie a ſtately golden chaine, and the peace with the Empe<g ref="char:EOLhyphen"/>rour of Turky <hi>Sultan Ibraim</hi> is confirmed, whereupon the 11.21. of this moneth his Majeſtie went from hence towards Re<g ref="char:EOLhyphen"/>genſpurg, where a generall Dyete ſhall be kept.</p>
+            </div>
+            <div type="part">
+               <pb n="120" facs="tcp:183770:6"/>
+               <opener>
+                  <dateline>Bonn <date>the 15. 25 of May.</date>
+                  </dateline>
+               </opener>
+               <p>Yeſterday morning 400 Imperiall ſoldiers under the com<g ref="char:EOLhyphen"/>mand of Colonell <hi>Meuter,</hi> which came from Mulheim, have taken the ſtrong caſtle of Sieburg being guarded by the Duke of <hi>Newburg</hi> his forces, which made a ſhew as if they would carry Hay and ſtraw into the ſaid Caſtle, fell preſently vpon the watch and thus tooke the City and Caſtle by force.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Duringen <date>the 16. 26. of May.</date>
+                  </dateline>
+               </opener>
+               <p>Generall <hi>Bannier</hi> lyes with his army yet about Rudelſtatt, and the Imperiall Generall <hi>Piccolomini</hi> at Salfeld, the Bavari<g ref="char:EOLhyphen"/>an ſuccour conſiſting of 17. Regiments hath now joyned with the ſaid <hi>Piccolomini.</hi> Before the Bavarian troopes arrived, Generall <hi>Bannier</hi> gave an aſſault vpon the Roten-Hill neare Salfeld, to ſee whether he could play from thence into <hi>Picco<g ref="char:EOLhyphen"/>lominies</hi> Campe, which at laſt he maſtered, in which action Generall Major <hi>Pful</hi> was ſlaine, Colonell <hi>Slanghs</hi> right arme ſhot off, and Colonell Bawer dangerouſly ſhot, beſides many other Officers, inſomuch that on both ſides above 4000 men are already ſlaine, the Swedes have taken from the Imperialiſts 2. Sconces. yet they could not get <hi>Piccolomini</hi> out of Salfeld, both Armies lye now ſo cloſe together, that they could not lye cloſer, inſomuch that without a pitch'd battaile, they can not part one from the other.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Coburg <date>the 14. 24. of May.</date>
+                  </dateline>
+               </opener>
+               <p>This morning we received aviſoes, that 6000 Swediſh horſe<g ref="char:EOLhyphen"/>men have ſurprized an Imperiall quarter betwixt Rudelſtatt and Mulberg, ſlaine ſome 100 of them, tooke many priſoners and obtained 9 ſtandards. Both parties have order to fight.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Paris <date>the 18. 28. of May.</date>
+                  </dateline>
+               </opener>
+               <p>The 9. of this moneth 150 horſemen and 70. foote of the garriſons of Chaſtelet. <hi>Peronne</hi> and St. <hi>Quentin</hi> went towards the Fort of Agincourt, which lyes betwixt Baupalme and Cambray, and after that they had ſurprized and pilladged the ſame they diſcry'd ſome Spaniſh forces both horſe and foote, which were gone into France, whom they followed, they came into the Village of Ronſoy where they perceived an A<g ref="char:EOLhyphen"/>larum
+<pb n="121" facs="tcp:183770:6"/>in the Vlage of Agincourt neere Chaſtilet, where the enemy hath tak<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n many Priſoners and obtained many horſes and a rich booty, whereupon our ſouldiers marched againſt them and found them ſtrong 3 Companies of horſe divided into 3 Squadrons, and ſeconded by 30 foote with fire-locks, and being come in ſight of the enemy our Horſemen divided themſelves into 5 Squadrons, which gave ſo fierce fire againſt the enemy, that with the firſt charge they kill'd a Marſhall and 11. horſemen and purſued after the reſt to the firſt Fort of their Country, where ſome few ſaved themſelves, but 60: were taken priſoners, all the goods, which they had taken were reſtored againe to the Peaſants.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Erfurd <date>the 14. 24 of May.</date>
+                  </dateline>
+               </opener>
+               <p>At this inſtant wee receive aviſoes, that Generall <hi>Bannier</hi> hath totally routed and defeated the Crabats that very few of them eſcaped alive.</p>
+            </div>
+            <div type="part">
+               <head>A Liſt of the overthrow of the <hi>Spaniſh</hi> Army before <hi>Cazall</hi> 
+                  <date>the 20. 30 of Aprill.</date>
+               </head>
+               <p>In the River of Poe are drowned above a 1000 ſouldiers, and in the field were found dead 2300 men. Wounded 1400. Priſoners 2000. Wagons loaden with Baggage were taken 1500. 2000 Barrels of Gun-powder, 1000 weight of Mat<g ref="char:EOLhyphen"/>ches, 2000 Fire-balls, 4000 weight of Muſquet bullets, 30 Coaches, 4000 Carts and Wagons, 9 great Pieces of Ord<g ref="char:EOLhyphen"/>nance, and 36 others; 2 Morter pieces, 52 Enſignes, 32 Stan<g ref="char:EOLhyphen"/>dards. Of the Priſoners that were taken, the chiefeſt are <hi>Vaſ<g ref="char:EOLhyphen"/>quiet</hi> Lieutenant Generall of the Artillery, <hi>Don Carlo Hatta,</hi> Count <hi>Biglia,</hi> Marquis <hi>Bellaviano, Don Alphonſo</hi> and others; Of thoſe that were then ſlaine, the chiefeſt are <hi>Don Alardy,</hi> Marquis <hi>Cariſana</hi> Generall of the Horſe, the Baron of <hi>Oſuman</hi> Lieutenant Generall of the horſe, Field-marſhall <hi>Mora,</hi> Mar<g ref="char:EOLhyphen"/>quis <hi>de Sancto,</hi> beſides many Captaines and other Officers.</p>
+            </div>
+            <div type="part">
+               <head>An Extract of a Letter from <hi>Franckford</hi> 
+                  <date>the 24of May, the 3 of Iune.</date>
+               </head>
+               <p>As for newes I cannot but certifie you, that we have rceived
+<pb n="122" facs="tcp:183770:7"/>certaine aviſoes, that 4000 Imperiall Curaſſiers and 3000 light horſemen are totally routed and defeated by the Swedes, and that an Auſtrian Earle is brought priſoner into Erfurd, yea they ſay, that the whole Imperiall Army is overthrowne and <hi>Piccolomini</hi> mortally wounded, (ſome have letters, that 28000 of the Imperialiſts are ſlaine and taken priſoners, the certain<g ref="char:EOLhyphen"/>ty whereof we ſhall heare by the next.) It is likewiſe certaine, that the Swediſh Generall Major <hi>Stollhans</hi> with his Army hath likewiſe defeated the Imperiall Army in Sileſia, and that he is gone already into Bohemia and come as farre as Leutmaritz, ſo that the Imperialiſts have their enemy before and behind them. The laſt letters from France bring certaine newes, that the French vnder the command of the Count of <hi>Harcourt</hi> hath taken by aſſault the City of Thurino, and Prince <hi>Thomas</hi> pri<g ref="char:EOLhyphen"/>ſoner, and they write alſo, that the ſaid Count of <hi>Harcourt</hi> hath given againe an vtter overthrow to the Spaniſh Army, which was comming to relieve the ſaid City of Thurino. They write alſo from Paris that the whole Kingdome of Catalonia is in vproare and that they have kill'd already many 1000 Caſtil<g ref="char:EOLhyphen"/>lions.</p>
+            </div>
+         </div>
+         <div type="dispatch">
+            <opener>
+               <dateline>From Holland.</dateline>
+            </opener>
+            <div type="part">
+               <opener>
+                  <dateline>Erford <date>the 8. 18. of May.</date>
+                  </dateline>
+               </opener>
+               <p>THe other day about 11. of the clocke the Luneburgiſh, Heſſiſh, and Weymariſh forces arrived ſafely here, and be<g ref="char:EOLhyphen"/>fore this City in the open field they keepe a generall muſtering the Generalls of the ſaid forces were received by Generall <hi>Ban<g ref="char:EOLhyphen"/>nier</hi> with great reverence, all the Canons diſcharged and a val<g ref="char:EOLhyphen"/>ley of ſhot made with muſquets. Yeſterday roſe from hence the whole Army &amp; marched againſt Gen: <hi>Piccolomini,</hi> who lyes on the River of Saala, Fieldmarſhall Hatzfeld hath already for<g ref="char:EOLhyphen"/>ſaken his quarter, and is retired over the River of Saala, throw<g ref="char:EOLunhyphen"/>ing off all bridges over the ſaid River: The Army of General <hi>Bannier</hi> conſiſted of 22000. horſe and foote, the Weymariſh conſiſted of 10000. men: the <hi>Heſſiſh</hi> and <hi>Luneburgiſh</hi> Army o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 12000. men, all ſtout and luſty ſouldiers. The Imperialiſts <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="123" facs="tcp:183770:7"/>likewiſe very ſtrong, they ſpeake of 60000. men. The Caſtle of <hi>Tetſhen</hi> in <hi>Bohemia</hi> is ſurrendred upon diſcretion to the Saxon and Imperiall troopes, after that they had taken by aſ<g ref="char:EOLhyphen"/>ſault the out-workes, and were ready to doe the like to the Caſtle. The Swediſh Gen: Major Stollhans hath defeated in Sileſia neare <hi>Hirſhberg</hi> and <hi>Goldberg</hi> the Imperiall Army un<g ref="char:EOLhyphen"/>der the command of the Count of Mansfield, ruinated 3 Regi<g ref="char:EOLhyphen"/>ments and obtained all the baggage, and taken priſoners both Colonels Palofsky and Limpo together with others.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Paris <date>the 9. 19. of May.</date>
+                  </dateline>
+               </opener>
+               <p>This day was ſung heere <hi>Te Deum laudamus</hi> for the Victory, which the Count of <hi>Harcourt</hi> had in <hi>Italy.</hi> The French King hath ſent faire preſents to the Count of <hi>Harcourt,</hi> and hath made the Governour in Cazall an Earle, and to all the Officers which had performed good ſervice in the fight, preſents were given. Vpon this Victory the ſaid Count of <hi>Harcourt</hi> hath be<g ref="char:EOLhyphen"/>ſieged the City of Thurino, and hath reinforced his army with 4000. men, and 6000. more, which are already in the way, are likewiſe to joyne with him. The Baron of <hi>Arnault</hi> hath be<g ref="char:EOLhyphen"/>fieged the Caſtle of Poligny in the French County, but was beaten away againe by Marquis Villeroy, who obtained all his Canons and Baggage: Duke <hi>Charles</hi> of Lorraine hath like<g ref="char:EOLhyphen"/>wiſe had ſome loſſe.</p>
+               <p>Wee have newes here, that the Count of <hi>Harcourt</hi> hath ta<g ref="char:EOLhyphen"/>ken the bridge over the River of Poe, the Capuryner Sconce before <hi>Thurino</hi> and all the outworkes, inſomuch that the City will likewiſe not be able to hold out long. Yeſterday wee re<g ref="char:EOLhyphen"/>ceived aviſoes, that the City is taken already by aſſault, and that all the Spanyards are put to the ſword, and Prince <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> taken priſoner. The French King is gone to <hi>Reims</hi> to keepe his Court there to be the nearer to the fiege of Charlemont.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Liege <date>the 16. 26. of May.</date>
+                  </dateline>
+               </opener>
+               <p>Charlemont is now cloſe beſieged and Monſieur de Mil<g ref="char:EOLhyphen"/>leray is likewiſe to come with his army before it.</p>
+               <p>The French King is at Soy ſons. At Heſdin and Dourans are erected great Magazins. The Spaniſh Army under the com<g ref="char:EOLhyphen"/>mand
+<pb n="124" facs="tcp:183770:8"/>of the Marquis of Leden hath order to march towards Mabeuſe to ſuccour and relieve Charlemont. The report goes that 40 barrels of Gun-powder in the camp before Charlemont, ſome ſpeak of more, are blown up, w<hi rend="sup">ch</hi> hath done great harme both to the men and to the Artillery. The French have plun<g ref="char:EOLhyphen"/>dered and afterwards ſired Orimont, Guay, and Chimay.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Hamberough <date>the 16. 26. of May.</date>
+                  </dateline>
+               </opener>
+               <p>Generall <hi>Piccolomini</hi> hath muſtered his Campe, and is paſſed thereupon the River of Saala taking his Head-quarter betwixt Witſenſea &amp; Longen Salzato expect their the Swediſh Army: In the meane time the ſaid <hi>Piccolomini</hi> cauſed the little City of Ilmen to be ſurpriſed, wherein he ruinated betweene 2 and 300. Swediſh ſouldiers: Generall <hi>Bannier</hi> is riſen from <hi>Erſurd</hi> with a ſtrong Army, if <hi>Piccolomini</hi> doth ſtand to it, it will prove a moſt bloody battaile.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Sluys <date>the 17. 27. of May.</date>
+                  </dateline>
+               </opener>
+               <p>The Prince of <hi>Orange</hi> lyes with his army yet at Maldegem, where hee doth entrench himſelfe; In the encounter neare the new Ferry, wherof mention was made heretofore, we have loſt 38 men and 40 were wounded, ſince that time nothing is paſſed. Count William of Naſſaw Field marſhall could not hitherto do much good upon the Fort of St. <hi>Donaes,</hi> though he lyes very nigh to it, and they can fling into hand granadoes, he playes continually with his Canons upon it, and makes the ſame like a heape of earth: He labours likewiſe very hard to get over the River of Soete, over the Zoute he hath a bridge and two Batteries ſtanding upon the Ditch. The Spanyards have cut through the Zoute with a trench to maintaine the better the River of Soere, if we doe maiſter the ſame then the ſaid Sconce is loſt, becauſe all ſuccour and proviſion is then cut off from them.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Fluſſingen <date>the 17. 27. of May.</date>
+                  </dateline>
+               </opener>
+               <p>Here are arrived 3 ſhips, which came from Bordeaux, they have beene fighting for 6 houres long againſt 2 <hi>Dunkerck</hi> Fre<g ref="char:EOLhyphen"/>gats, one whereof carryed 18 and th'other 26 peeces of Ord<g ref="char:EOLhyphen"/>nance: The 13.23. of this moneth went through <hi>Gent</hi> towards <hi>Bruges,</hi> the Count of <hi>Fountaine</hi> with many forces: Generall
+<pb n="125" facs="tcp:183770:8"/>Major Lamboy is going with his Army towards Mamur, Marquis de Leden, who lay the 13.23. of this moneth about Bael os to joyne with him.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>From the Imperiall Campe at Salfeld <date>the 12. 22. of May.</date>
+                  </dateline>
+               </opener>
+               <p>The 8.18. of this moneth about 10. of the clocke in the forenoone Gen: <hi>Bannier</hi> came with his whole army in a great fury before our Campe and finding us in a good poſture after ſome hot skirmiſhes marched the ſame night towards <hi>Rudel<g ref="char:EOLhyphen"/>ſtat,</hi> and the 9.19. of this moneth preſented himſelfe againe in battaile array; We remained in our trenches, and the charges dured all the day long, aſſoone as the Bavarian forces have joyned with us, we ſhall reſolve another thing, in the meane time Gen: <hi>Bannier</hi> deſcryes all the paſſages hereabouts, and we feare, that he will beſiege us and march againſt Leipzigh, ye<g ref="char:EOLhyphen"/>ſternight Generall <hi>Bannier</hi> came to Rudelſtat, and being he is better furniſhed with proviſion, it is likely he will ſtay herea<g ref="char:EOLhyphen"/>bouts a good while. Laſt night hee had his quarter in both Valleys <hi>Blanckenberg</hi> and <hi>Rudelſtat,</hi> and neare the Cloyſter of <hi>Munchenberg</hi> he planted the Canons, and advanced within 2 or 3 muſquet ſhorts of our trenches, and being we can get no proviſion from <hi>Altenburg</hi> and <hi>Swartzenburg,</hi> we ſhall ſhortly reſolve one way or other.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Franckford <date>the 18. 28. of May.</date>
+                  </dateline>
+               </opener>
+               <p>From <hi>Prague</hi> and <hi>Leipzigh</hi> is written that the Swediſh Ge<g ref="char:EOLhyphen"/>nerall <hi>Major Stollbans</hi> hath defeated about Hiriſhberg in Sileſia 9 Imperiall Regiments, taken a great number priſoners, a<g ref="char:EOLhyphen"/>mongſt which are Colonell <hi>Palofsky</hi> and <hi>Limpo,</hi> obtained all their Canons and baggage, and upon this victory he advanced within 8 leagues of Leutmaritz.</p>
+               <p>From <hi>Franconia</hi> of the 15.25. of this moneth is written, that Generall <hi>Bannier</hi> hath burn'd downe the Suburbes at Kala, found a great ſtore of proviſion in the City and maiſtered a paſſage over the River of Saala, from thence he marched to<g ref="char:EOLhyphen"/>wards Katze<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtein, not farre from <hi>Salfeld.</hi> The Crabats which were commanded againſt him are totally routed and defea<g ref="char:EOLhyphen"/>ted.</p>
+            </div>
+            <div type="part">
+               <pb n="126" facs="tcp:183770:9"/>
+               <opener>
+                  <dateline>Fluſſingen <date>the 19. 29. of May.</date>
+                  </dateline>
+               </opener>
+               <p>St. <hi>Donaes</hi> remaines yet cloſe beſieged, Count <hi>Willi<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> hath put foure Companies behind the Sconce together with morter peece to ſend from thence continually fire-balls int<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ſaid Fort. The Spanyards come yet in and out the For<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> along the river of <hi>Soete,</hi> and within the Sconce they have made divers deepe holes into the wall to ſhelter themſelves a<g ref="char:EOLhyphen"/>gainſt the Granadoes, and the women and children are for th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> moſt part departed out of the Sconce; In the meane time th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> beſieged ſhoot very little with their Canons, and the othe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sconces as namely St. <hi>Frederick</hi> &amp; the <hi>Star</hi>-ſconce ſhoot leſſe onely thoſe of St. <hi>Iob</hi> thunder continually with thheir canons.</p>
+               <p>The ſhips w<hi rend="sup">ch</hi> tranſported our horſmen lie before <hi>Ramekins</hi>
+               </p>
+               <p>Vpon the Ditch of the <hi>Soete</hi> and <hi>Zoute</hi> they ſhoot fiercely one upon another:</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Fluſhingen <date>the 21. 31. of May.</date>
+                  </dateline>
+               </opener>
+               <p>The Prince of <hi>Orange</hi> lyes with his Army yet at <hi>Maldeg<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> there is as yet but little hope of the getting of <hi>St. Dona<gap reason="illegible" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>
+                  </hi> long as wee cannot get over the river of <hi>Soete.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Amſterdam <date>the 23 of May, the 2 of Iune.</date>
+                  </dateline>
+               </opener>
+               <p>The 16.26 of this moneth, Marquis <hi>de Leden</hi> marched with 8000 men both horſe and foote over the bridge at <hi>Antmery</hi> The gates at <hi>Hulſt</hi> have been kept ſhut above three dayes long<g ref="char:punc">▪</g> and ſuffered no man to come in or out.</p>
+               <p>The report goes, that the French King and Marſhall <hi>de Ch<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ſtillien</hi> are comming with a ſtrong army towards <hi>Flanders,</hi> it is thought that they will joyne with the Prince of <hi>Orange.</hi>
+               </p>
+               <p>All the bands of Ordonnancie are now in the field, out o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> every Company 20 men are taken and put under the weal<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <hi>Spaniſh</hi> companies.</p>
+               <p>Our Admirall <hi>Martin Harpers Tromp,</hi> wee heare is to go<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> within few dayes to Sea.</p>
+               <p>The <hi>French</hi> continue ſtill the fiege before <hi>Charlemont,</hi> an<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fortifie themſelves before it exceedingly.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <signed>Philip. Minutelius.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON, Printed for NATH: BUTTER.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
